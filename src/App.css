@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+.myCard {
+  display: inline-block !important;
+  margin: 20px;
+  height: 600px;
+  /* width: 400px; */
+}
+.card_div {
+  display: inline-block;
+}
+.card_img {
+  height: 200px !important;
+  width: 300px;
+}
